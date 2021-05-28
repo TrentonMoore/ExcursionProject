@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+article{
+    padding: 10px;
+}
+article p{
+    opacity: .5;
+}
+
+footer{
+    display:block;
+}
+#footer{
+    text-align: right;
+}
